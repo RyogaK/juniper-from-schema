@@ -1,4 +1,4 @@
-# [juniper-from-schema](https://crates.io/crates/juniper-from-schema)
+# [juniper-from-schemaa](https://crates.io/crates/juniper-from-schema)
 
 ![Build](https://github.com/davidpdrsn/juniper-from-schema/workflows/Build/badge.svg)
 [![crates.io](https://meritbadge.herokuapp.com/juniper-from-schema)](https://crates.io/crates/juniper-from-schema)
